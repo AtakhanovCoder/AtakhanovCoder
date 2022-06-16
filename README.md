@@ -1,4 +1,4 @@
-### Hi there https://media0.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif?cid=ecf05e47uiltyhosx4angzzcrlrzw9d6mm3t62bszrw5hbdm&rid=giphy.gif&ct=g
+### Hi there <img src="https://media0.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif?cid=ecf05e47uiltyhosx4angzzcrlrzw9d6mm3t62bszrw5hbdm&rid=giphy.gif&ct=g">
 
 <!--
 **AtakhanovCoder/AtakhanovCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
