@@ -23,4 +23,5 @@ I want to learn
   <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" width="35px">
   <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="35px">
   <img src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" width="35px">
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35px">
 </div>
