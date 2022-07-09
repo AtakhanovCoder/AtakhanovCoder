@@ -7,8 +7,8 @@ I'm from Namangan I'm 15 years old, I'm learning frontend development💻<br>
 becoming a full stack developer 👩‍💻 and working as a developer in America🧰<br>
 and start an IT company similar to Google<br>
 <br>
-My portfolio Web site <img src="https://avatars.githubusercontent.com/u/106325945?s=400&u=b3fc46e8ff83985f1935d30616a711aff0f78f18&v=4" width="20px" style="border-radius: 50px;">
-<br><a href="https://atakhanov-coder.netlify.app/">https://atakhanov-coder.netlify.app</a>
+My portfolio Web site: <a href="https://atakhanov-coder.netlify.app/">https://atakhanov-coder.netlify.app</a>
+<br>
 I learned programming language<br>
 <div style="display: inline-block;">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png?w=360" width="35px">
