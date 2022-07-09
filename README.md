@@ -9,6 +9,7 @@ and start an IT company similar to Google<br>
 <br>
 My portfolio Web site: <a href="https://atakhanov-coder.netlify.app/">https://atakhanov-coder.netlify.app</a>
 <br>
+<br>
 I learned programming language<br>
 <div style="display: inline-block;">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png?w=360" width="35px">
