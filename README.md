@@ -1,8 +1,12 @@
 ### Hi, I'm Atakhanov Coder 👋
 
 <h1>About me</h1>
-Hello dears,🖐 I'm A takhanov Tayibkhan, I'm from Uzbekistan,
-I'm from Namangan I'm 15 years old, I'm learning frontend development💻 <br>
+Hello dears,🖐 I'm A takhanov Tayibkhan, I'm from Uzbekistan, <br>
+I'm from Namangan I'm 15 years old, I'm learning frontend development💻<br>
+<h1>My Future Goal</h1>
+becoming a full stack developer 👩‍💻 and working as a developer in America<br>
+and start an IT company similar to Google<br>
+
 <br>
 I learned programming language<br>
 <div style="display: inline-block;">
