@@ -11,8 +11,8 @@ I'm from Namangan I'm 15 years old, I'm learning frontend development💻 <br>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="33px">
 <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width="40px">
 </div>
-<h2>My Portfolio:</h2><a href="https://atakhanov-coder.netlify.app">https://atakhanov-coder.netlify.app<a/>
-  
-now I am learning javascript
-
-
+now I am learning
+<div style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="35px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="35px">
+</div>
