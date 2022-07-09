@@ -14,7 +14,7 @@ I'm interested in: <br>
 1.Reading book 👨‍🎓, <br>
 2.Training KickBox <br>
 3.Video games:<br><div style="display: inline-block;">
-  <img src="https://seeklogo.com/images/C/counter-strike-global-offensive-logo-B877EB5D33-seeklogo.com.png" width="40px">
+  <img src="https://seeklogo.com/images/C/counter-strike-global-offensive-logo-B877EB5D33-seeklogo.com.png](https://cnlgaming.gg/wp-content/uploads/ava-CSGO.png)" width="40px">
   <img src="https://seeklogo.com/images/M/minecraft-logo-5EAD3A1535-seeklogo.com.png" width="40px">
   <img src="" width="40px">
   <img src="" width="40px">
