@@ -1,5 +1,1 @@
-Hi I'm Toyibkhan Atakhanov
-
-I'am Frontend Developer
-I know HTML CSS JAVASCRIPT
-
+### Hi, I'm Toyibkhan Atakhanov <img src="https://wprock.fr/en/t/emoji/waving-hand/" width="27px">
