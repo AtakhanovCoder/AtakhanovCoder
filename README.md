@@ -9,10 +9,10 @@ and start an IT company similar to Google<br>
 <br>
 My portfolio Web site: <a href="https://atakhanov-coder.netlify.app/">https://atakhanov-coder.netlify.app</a>
 <br>
-I'm interested in:
-1.Reading book 👨‍🎓, 
-2.Training KickBox 
-3.Video games:<div style="display: inline-block;">
+I'm interested in: <br>
+1.Reading book 👨‍🎓, <br>
+2.Training KickBox <br>
+3.Video games:<br><div style="display: inline-block;">
   <img src="https://seeklogo.com/images/C/counter-strike-global-offensive-logo-B877EB5D33-seeklogo.com.png" width="35px">
 </div>
 <br>
