@@ -7,6 +7,7 @@ I'm from Namangan I'm 15 years old, I'm learning frontend development💻 <br>
 <div style="display: inline-block;">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png?w=360" width="35px">
 <img src="https://static.cdnlogo.com/logos/c/18/css.svg" width="31px">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35px">
 </div>
 <h2>My Portfolio:</h2><a href="https://atakhanov-coder.netlify.app">https://atakhanov-coder.netlify.app<a/>
   
