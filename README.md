@@ -34,6 +34,7 @@ I want to learn
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="35px">
 </div>
+<br>
 I'm interested in: <br>
 1.Reading book 👨‍🎓, <br>
 2.Training KickBox🥋, <br>
