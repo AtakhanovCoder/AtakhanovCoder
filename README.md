@@ -19,7 +19,7 @@ I'm interested in: <br>
   <img src="https://seeklogo.com/images/M/minecraft-logo-5EAD3A1535-seeklogo.com.png" width="40px">
   <img src="https://avatanplus.com/files/resources/original/573b41b55e2f1154bf78ac8a.png" width="40px">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef02abe3-63cc-4dfa-8eab-5543cf3bcf4f/dde2pfh-9b2acce1-5c98-42f5-8fec-f743b2b1b680.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmMDJhYmUzLTYzY2MtNGRmYS04ZWFiLTU1NDNjZjNiY2Y0ZlwvZGRlMnBmaC05YjJhY2NlMS01Yzk4LTQyZjUtOGZlYy1mNzQzYjJiMWI2ODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fx_g84XH2cocCKhAc89KVV_sLu5OkCXLfc1VW0ZjOSI" width="40px">
-  <img src="" width="40px">
+  <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/b/b1/Mortal_Kombat_Logo.svg/1017px-Mortal_Kombat_Logo.svg.png" width="40px">
 </div>
 <br>
 I learned programming language<br>
