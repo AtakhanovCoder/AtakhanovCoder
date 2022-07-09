@@ -38,7 +38,7 @@ I want to learn
 I'm interested in: <br>
 1.Reading book 👨‍🎓, <br>
 2.Training KickBox🥋, <br>
-3.listen to music 🎧,
+3.listen to music 🎧, <br>
 4.Video games 🎮:<br><div style="display: inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/640px-Steam_icon_logo.svg.png" width="40px">
   <img src="https://cnlgaming.gg/wp-content/uploads/ava-CSGO.png" width="40px">
