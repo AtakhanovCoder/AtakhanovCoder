@@ -1,1 +1,1 @@
-### Hi, I'm Toyibkhan Atakhanov 👋
+### Hi, I'm Atakhanov Coder 👋
