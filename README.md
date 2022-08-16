@@ -32,6 +32,8 @@ I want to learn
   <img src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" width="35px">
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="35px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="35px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" width="35px">
 </div>
 <br>
 I'm interested in: <br>
